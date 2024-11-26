@@ -2,6 +2,8 @@
 
 Play my recreation of [Pong](https://brunozhon.github.io/webPong/) here! I learned a lot about the `<canvas>` element while I was working on this project! (And I might've stolen some bouncy ball code from MDN, too.)
 
+This is part one of a series called Pong in Every Language. Part two is [over here](https://github.com/Brunozhon/fs-pong).
+
 ## Installation
 
 No installation needed! [Play online right now!](https://brunozhon.github.io/webPong/)
